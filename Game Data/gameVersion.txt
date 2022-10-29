@@ -1,5 +1,5 @@
 [gameVersion]
 [version]
-versionNumber=V.O.1.11
+versionNumber=V.O.1.12
 versionTitle=UPDATE IS NOW AVAILABLE
 newUpdateDescription=THE UPDATE IS NOW AVAILABLE. DOWNLOAD THE UPDATE NOW ON GAMEJOLT. UPDATED VERSI0N - V1.0.11
