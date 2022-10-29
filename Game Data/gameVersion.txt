@@ -1,4 +1,4 @@
 [gameVersion]
 [version]
-versionNumber=V.0.0.1 Debug Build
-newUodateDescription=
+versionNumber=V.1.0.0 DEBUG BUILD
+newUodateDescription=THE UPDATE IS NOW AVAILABLE. DOWNLOAD THE UPDATE NOW ON GAMEJOLT.
