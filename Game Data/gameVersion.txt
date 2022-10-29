@@ -1,4 +1,4 @@
 [gameVersion]
 [version]
 versionNumber=V.0.0.1 Debug Build
-newUodateDescription
+newUodateDescription=
