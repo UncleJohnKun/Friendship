@@ -1,5 +1,5 @@
 [gameVersionGithub]
 [gameInfo]
-githubGameVersion=
+githubGameVersion=V.0.0.3
 githubGameDownloadLink=
 gameUpdateDescription=
