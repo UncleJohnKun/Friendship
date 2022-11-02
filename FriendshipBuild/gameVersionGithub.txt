@@ -4,3 +4,4 @@ githubGameVersion=V.0.0.3
 githubGameName=Friendship Dev Build
 githubGameDownloadLink=https://github.com/UncleJohnKun/Friendship/raw/main/FriendshipBuild/Friendship.exe
 gameChangelogDescription=
+gameFileSize=
