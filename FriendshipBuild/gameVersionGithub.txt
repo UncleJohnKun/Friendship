@@ -1,5 +1,5 @@
 [gameVersionGithub]
 [gameInfo]
 githubGameVersion=V.0.0.3
-githubGameDownloadLink=
+githubGameDownloadLink=https://github.com/UncleJohnKun/Friendship/raw/main/FriendshipBuild/Friendship.exe
 gameUpdateDescription=
